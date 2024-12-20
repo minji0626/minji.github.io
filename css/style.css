@@ -296,7 +296,12 @@ button:focus {
   .home_banner_area .banner_inner {
     width: 100%; }
     .home_banner_area .banner_inner .home_left_img {
-      padding-top: 195px; }
+      display: flex;
+			padding-bottom: 50px;
+			padding-top: 145px;
+			justify-content: center;
+			/* padding-top: 195px; */
+			align-items: center; }
     .home_banner_area .banner_inner .col-lg-6 {
       vertical-align: middle;
       align-self: center; }
