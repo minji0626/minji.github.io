@@ -2890,7 +2890,21 @@ h6 {
     background: linear-gradient(to right, #8490ff 0%, #62bdfc 70%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
-
+    
+    .list li span {
+      font-size: 14px;
+      color: #222222;
+      font-weight: 500;
+      width: 97px;
+      display: inline-block;
+    }
+    
+    .list li {
+      margin-bottom: 7px;
+      color: #777777;
+      font-weight: normal;
+      font-size: 14px;
+    }
 /* End Projects Area css
 ============================================================================================ */
 /* Portfolio Details Area css

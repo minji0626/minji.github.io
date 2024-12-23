@@ -3473,6 +3473,19 @@ h6 {
 ============================================================================================ */
 /* Portfolio Details Area css
 ============================================================================================ */
+.portfolio_details_inner .list li span {
+  font-size: 14px;
+  color: #222222;
+  font-weight: 500;
+  width: 97px;
+  display: inline-block;
+}
+.portfolio_details_inner .list li {
+  margin-bottom: 7px;
+  color: #777777;
+  font-weight: normal;
+  font-size: 14px;
+}
 .portfolio_details_inner .row {
   margin-bottom: 65px;
 }
